@@ -5,5 +5,8 @@ TurtleBot is a low-cost, personal robot kit designed to enable rapid robotics le
 The files should be executed with the help of gazebo software in (recommended:Ubuntu operating system).
 
 1) For execution and running do the following:
-   ![Screenshot from 2024-11-09 11-55-46](https://github.com/user-attachments/assets/8d75a244-140c-4885-a413-04c05bfbbc38)
-   
+   ![Screenshot from 2024-11-09 11-55-05](https://github.com/user-attachments/assets/3b167928-8128-4548-9b0a-2e84cf9b1f8c)
+
+   ![Screenshot from 2024-11-09 11-55-46](https://github.com/user-attachments/assets/de58afe8-725a-4d1a-97d7-dba72ba30dae)
+
+[Screencast from 11-09-2024 11_56_58 AM.webm](https://github.com/user-attachments/assets/b20ee3d0-bb2e-414f-8e84-bcf3300ac125)
